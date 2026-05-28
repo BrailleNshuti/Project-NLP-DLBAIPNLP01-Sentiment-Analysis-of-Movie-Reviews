@@ -121,22 +121,22 @@ Thanks to its contextual understanding of language, DistilBERT was the one in th
 #  Screenshots of my notebook outcomes
 
 **Dataset Distribution**  
-![dataset_Distribution]
+![dataset_distribution]
 
 **Word Clouds**  
 ![wordClouds]
 
 **SVM Confusion Matrix**  
-![sVM_Confusion_Matrix]
+![sVMconfusionmatrix]
 
 **DistilBERT Confusion Matrix**  
-![distilBERT_Confusion_Matrix]
+![distilBERTconfusionmatrix]
 
 **Final Model Comparison Graph**  
-![final_Model_Comparison_Graph]
+![finalmodelcomparisongraph]
 
 **Real-World Prediction Results**  
-![application_testing]
+![applicationtesting]
 
 
 ---
@@ -228,7 +228,9 @@ This project shows a hands-on implementation of Natural Language Processing with
 #  Author
 
 **RUSINGIZA NSHUTI BRAILLE**
+
 Applied Artificial Intelligence, B.Sc.
+
 IU International University of Applied Sciences
 
 ---
