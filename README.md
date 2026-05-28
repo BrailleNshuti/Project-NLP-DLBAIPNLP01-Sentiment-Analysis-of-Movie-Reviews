@@ -121,22 +121,22 @@ Thanks to its contextual understanding of language, DistilBERT was the one in th
 #  Screenshots of my notebook outcomes
 
 **Dataset Distribution**  
-![dataset_distribution]
+[datasetdistribution]
 
 **Word Clouds**  
-![wordClouds]
+[wordclouds]
 
 **SVM Confusion Matrix**  
-![sVMconfusionmatrix]
+[svmconfusionmatrix]
 
 **DistilBERT Confusion Matrix**  
-![distilBERTconfusionmatrix]
+[distilbertconfusionmatrix]
 
 **Final Model Comparison Graph**  
-![finalmodelcomparisongraph]
+[finalmodelcomparison]
 
 **Real-World Prediction Results**  
-![applicationtesting]
+[applicationtesting]
 
 
 ---
