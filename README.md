@@ -121,22 +121,22 @@ Thanks to its contextual understanding of language, DistilBERT was the one in th
 #  Screenshots of my notebook outcomes
 
 **Dataset Distribution**  
-[datasetdistribution]
+![datasetdistribution](screenshots/datasetdistribution.png)
 
 **Word Clouds**  
-[wordclouds]
+![wordclouds](screenshots/wordclouds.png)
 
 **SVM Confusion Matrix**  
-[svmconfusionmatrix]
+![svmconfusionmatrix](screenshots/svmconfusionmatrix.png)
 
 **DistilBERT Confusion Matrix**  
-[distilbertconfusionmatrix]
+![distilbertconfusionmatrix](screenshots/distilbertconfusionmatrix.png)
 
 **Final Model Comparison Graph**  
-[finalmodelcomparison]
+![finalmodelcomparison](screenshots/finalmodelcomparison.png)
 
 **Real-World Prediction Results**  
-[applicationtesting]
+![applicationtesting](screenshots/applicationtesting.png)
 
 
 ---
@@ -203,17 +203,17 @@ The following are some of the ways this project could be improved or extended:
 ```
 Project NLP/
 │
-├── README.md
+├──screenshots/
+|  ├── dataset_distribution.png
+|  ├── wordclouds.png
+|  ├── svm_confusion_matrix.png
+|  ├── distilbert_confusion_matrix.png
+|  ├── final_model_comparison.png
+|  └── application_testing.png
 ├── .gitignore
-├── requirements.txt
 ├── PROJECT_NLP.ipynb
-└── screenshots/
-   ├── dataset_distribution.png
-   ├── wordclouds.png
-   ├── svm_confusion_matrix.png
-   ├── distilbert_confusion_matrix.png
-   ├── final_model_comparison.png
-   └── application_testing.png
+├── README.md
+└── requirements.txt
 ```
 
 ---
